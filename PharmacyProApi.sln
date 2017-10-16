@@ -11,9 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmacyProApi.Core.Models"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmacyProApi.Core.Repository", "PharmacyProApi.Core.Repository\PharmacyProApi.Core.Repository.csproj", "{07ABF0BA-4E37-4020-8A99-CA6F35CF9FD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmacyProApi.Core.Interfaces", "Interfaces\PharmacyProApi.Core.Interfaces.csproj", "{1F36F25D-2091-46BB-88D8-410110FCEF09}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmacyProApi.Core.Interfaces", "PharmacyProApi.Core.Interfaces\PharmacyProApi.Core.Interfaces.csproj", "{1F36F25D-2091-46BB-88D8-410110FCEF09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmacyProApi.Core.Results", "Results\PharmacyProApi.Core.Results.csproj", "{45A59D2B-110E-4722-A43C-661548718B97}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmacyProApi.Core.Results", "PharmacyProApi.Core.Results\PharmacyProApi.Core.Results.csproj", "{45A59D2B-110E-4722-A43C-661548718B97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
